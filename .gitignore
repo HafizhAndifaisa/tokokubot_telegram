@@ -1,0 +1,12 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+/.discovery
+.json
+.yaml
+npm-debug.log
+.env
